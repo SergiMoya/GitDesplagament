@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
+    <?php
+     include 'config.php';
+    ?>
     <h1>Hola</h1>
 </body>
 </html>
