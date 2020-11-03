@@ -9,6 +9,6 @@
     <?php
      include 'config.php';
     ?>
-    <h1>Hola que tal</h1>
+    <h1>Hola</h1>
 </body>
 </html>
